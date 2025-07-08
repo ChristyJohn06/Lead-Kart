@@ -1,0 +1,17 @@
+# Lead Kart App Icon Image Placeholder
+
+This file should be replaced with a 1024x1024px PNG image containing:
+- Blue gradient background (#1976D2 to #42A5F5)
+- Shopping cart emoji 🛒 in the center (large)
+- "LEAD kart" text below the cart
+- White text and emoji on blue background
+
+To create this icon:
+1. Use any design tool (Canva, Figma, Photoshop, etc.)
+2. Create 1024x1024px canvas
+3. Add blue gradient background
+4. Add cart emoji and text
+5. Export as PNG
+6. Replace this file with your created icon
+
+Alternatively, use the Python script (create_app_icon.py) to generate icons automatically. 

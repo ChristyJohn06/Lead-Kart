@@ -1,0 +1,4 @@
+# This file should be the PNG version of leadkart_logo.svg
+# Convert the SVG file to PNG using an online converter or design tool
+# Recommended sizes: 512x512, 256x256, 128x128, 64x64
+# Place the converted PNG files here for Flutter to use 
